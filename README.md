@@ -12,6 +12,7 @@ Detailed description will be released soon.
 
 ## Acknowledgement
 This toolbox is developed at MMSPG EPFL in the framework of XAIface Chist-Era Project.
-
-<img src="./resources/logo-epfl.png" width="150" > 
+<p float="left">
+<img src="./resources/logo-epfl.png" width="150" >   
 <img src="./resources/mmspglogo.png" width="100" >
+</p>
