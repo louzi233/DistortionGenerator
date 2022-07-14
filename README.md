@@ -1,5 +1,5 @@
 
-# DistortionGeneration toolbox
+# DistortionGeneration Toolbox
 
 
 ## Usage
